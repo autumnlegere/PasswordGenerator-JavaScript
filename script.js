@@ -26,7 +26,7 @@ function popUps() {
   var selectLower = confirm("Select 'OK' if you would like to include lowercase letters in your password.")
   var selectUpper = confirm("Select 'OK' if you would like to include uppercase letters in your password.")
   var selectNumber = confirm("Select 'OK' if you would like to include numbers in your password.")
-  var selectSymbol = confirm("Select 'OK' if you would like to include symbols in your password.")
+  var selectSymbol = confirm("Select 'OK' if you would like to include special characters in your password.")
 
   if (selectLower) {
     passwordOptions = passwordOptions.concat(lower);

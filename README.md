@@ -2,7 +2,7 @@
 
 ## Description
 
-This random password generator will create a unique password for the user based on their length and character preferences. The user can choose the password length and whether or not they would like to include lowercase letters, uppercase letters, numbers, and/or symbols in the final password. This generator can be used as many times as needed and makes it easier to come up with strong, more secure passwords to protect the user's information. This web application was built using HTML, CSS, and Javascript. HTML and CSS were used for layout and aesthetic purposes only. All functionality was written using Javascript.
+This random password generator will create a unique password for the user based on their length and character preferences. The user can choose the password length and whether or not they would like to include lowercase letters, uppercase letters, numbers, and/or special characters in the final password. This generator can be used as many times as needed and makes it easier to come up with strong, more secure passwords to protect the user's information. This web application was built using HTML, CSS, and Javascript. HTML and CSS were used for layout and aesthetic purposes only. All functionality was written using Javascript.
 
 ## Link to Portfolio
 [Password Generator](https://autumnlegere.github.io/topsecretpasswords/)
@@ -21,7 +21,7 @@ I used snipets of code from the following places:
 
     - [bobbyhadz.com](https://bobbyhadz.com/blog/javascript-convert-all-elements-of-array-to-uppercase#:~:text=To%20convert%20all%20array%20elements,all%20strings%20converted%20to%20uppercase.)
 
-- List of Symbols and Special Characters <br>
+- List of Special Characters <br>
 
     - [owasp.org](https://owasp.org/www-community/password-special-characters)
 
